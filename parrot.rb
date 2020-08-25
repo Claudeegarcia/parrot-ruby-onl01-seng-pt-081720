@@ -5,5 +5,5 @@ sound = "Squawk!"
 
 
 def parrot
-  puts sound
+  
 end
