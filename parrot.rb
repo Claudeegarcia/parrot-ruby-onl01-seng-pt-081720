@@ -9,4 +9,3 @@ def parrot(phrase = "Squawk!")
   return phrase
 end
 
-Parrot("Pretty Bird!")
